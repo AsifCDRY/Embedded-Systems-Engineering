@@ -1,0 +1,11 @@
+.\objects\mp3_player.o: MP3_Player.c
+.\objects\mp3_player.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mp3_player.o: GLCD.h
+.\objects\mp3_player.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_Joystick.h
+.\objects\mp3_player.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mp3_player.o: usb.h
+.\objects\mp3_player.o: usbcfg.h
+.\objects\mp3_player.o: usbhw.h
+.\objects\mp3_player.o: usbcore.h
+.\objects\mp3_player.o: usbaudio.h
+.\objects\mp3_player.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_ADC.h

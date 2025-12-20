@@ -1,0 +1,9 @@
+.\objects\photo_gallery.o: Photo_Gallery.c
+.\objects\photo_gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\photo_gallery.o: GLCD.h
+.\objects\photo_gallery.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_Joystick.h
+.\objects\photo_gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\photo_gallery.o: picture1.c
+.\objects\photo_gallery.o: picture2.c
+.\objects\photo_gallery.o: picture3.c
+.\objects\photo_gallery.o: picture4.c

@@ -1,0 +1,9 @@
+.\objects\pacman.o: PACMAN.c
+.\objects\pacman.o: GLCD.h
+.\objects\pacman.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_LED.h
+.\objects\pacman.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pacman.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\pacman.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\pacman.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\pacman.o: PACMAN.h
+.\objects\pacman.o: C:\Users\ECBME\AppData\Local\Arm\Packs\Keil\MDK-Middleware\7.12.0\Board\Board_Joystick.h
